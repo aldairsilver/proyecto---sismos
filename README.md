@@ -14,4 +14,5 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## Autores
-- Aldair Silvera
+- Aldair Silvera Huaman
+- Yenifer Loayza Pineda
