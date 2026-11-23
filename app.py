@@ -82,8 +82,6 @@ with tab1:
                  caption="Cinturón de Fuego del Pacífico. Fuente: (escribe aquí la fuente)")
 
     st.divider()
-
-        # ----- Contexto geológico -----
         # ----- Contexto geológico -----
     st.header("Contexto geológico")
     col_texto, col_img = st.columns([5, 3], vertical_alignment="center")
