@@ -16,3 +16,6 @@ streamlit run app.py
 ## Autores
 - Aldair Silvera Huaman
 - Yenifer Loayza Pineda
+
+## Página web
+https://proyecto---sismos-aldair292pwwtefimptrr2nppcqz.streamlit.app/ 
